@@ -22,3 +22,10 @@ Website untuk pengguna menggunakan layanan bengkel
 ## catatan
 
 JANGAN SAMPAI KETINGGALAN!!!
+
+
+## Preview
+
+![gambar](img/preview.png)
+
+![gambar](img/preview2.png)
