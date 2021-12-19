@@ -3,8 +3,8 @@ halaman tugas projek WP 1
 
 ## Nama Kelompok
 
--- Reza
--- Supriyadi
+1. Reza
+2. Supriyadi
 
 ## Websitee bengkel
 
